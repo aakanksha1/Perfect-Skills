@@ -1,0 +1,342 @@
+Test Report of jon   - Test 1
+No. 1;
+Question - Which of the following is the largest fraction?;
+Correct Answer - 30/45
+;
+Selected Answer - 30/45
+;
+
+
+No. 2;
+Question - Which of the following is the largest  fraction?;
+Correct Answer - 16 / 26
+;
+Selected Answer - ;
+
+
+No. 3;
+Question - Which  of the following is the smallest fraction?;
+Correct Answer - 18/38
+;
+Selected Answer - ;
+
+
+No. 4;
+Question - Multiple the following without using calculator : 93x97;
+Correct Answer - 9021
+;
+Selected Answer - ;
+
+
+No. 5;
+Question - Multiple the following without using calculator : 92x95;
+Correct Answer - 8740
+;
+Selected Answer - ;
+
+
+No. 6;
+Question - Multiple the following without using calculator : 91x96 ;
+Correct Answer - 8736
+;
+Selected Answer - ;
+
+
+No. 7;
+Question - Multiple the following without using calculator : 85x111;
+Correct Answer - 9435
+;
+Selected Answer - ;
+
+
+No. 8;
+Question - Multiple the following without using calculator : 81x88;
+Correct Answer - 7128
+;
+Selected Answer - ;
+
+
+No. 9;
+Question - Multiple the following without using calculator : 118*109;
+Correct Answer - 12862
+;
+Selected Answer - ;
+
+
+No. 10;
+Question - Multiple the following without using calculator : 117x106;
+Correct Answer - 12402
+;
+Selected Answer - ;
+
+
+No. 11;
+Question - Multiple the following without using calculator : 115x102;
+Correct Answer - 11730
+;
+Selected Answer - ;
+
+
+No. 12;
+Question - Multiple the following without using calculator : 112x103;
+Correct Answer - 11536
+;
+Selected Answer - ;
+
+
+No. 13;
+Question - Multiple the following without using calculator : 108x105;
+Correct Answer - 11340
+;
+Selected Answer - ;
+
+
+No. 14;
+Question - Find the Average of first 91 odd numbers;
+Correct Answer - 91
+;
+Selected Answer - ;
+
+
+No. 15;
+Question - Find the average of first 80 numbers;
+Correct Answer - 40.5
+;
+Selected Answer - ;
+
+
+No. 16;
+Question - Find the Average of first 75 even numbers;
+Correct Answer - 76
+;
+Selected Answer - ;
+
+
+No. 17;
+Question - Find the average of first 50 numbers;
+Correct Answer - 26.5
+;
+Selected Answer - ;
+
+
+No. 18;
+Question - Find the Average of first 41 even numbers;
+Correct Answer - 42
+;
+Selected Answer - ;
+
+
+No. 19;
+Question - Find the Average of first 35 odd numbers;
+Correct Answer - 35
+;
+Selected Answer - ;
+
+
+No. 20;
+Question - Find the Average of first 30 even numbers;
+Correct Answer - 31
+;
+Selected Answer - ;
+
+
+No. 21;
+Question - Find the Average of first 28 odd numbers;
+Correct Answer - 28
+;
+Selected Answer - ;
+
+
+No. 22;
+Question - Find the average of first 125 numbers;
+Correct Answer - 63;
+Selected Answer - ;
+
+
+No. 23;
+Question - Find square of 198 without using calculator;
+Correct Answer - 39204
+;
+Selected Answer - ;
+
+
+No. 24;
+Question - Find square of 180 without using calculator;
+Correct Answer - 32400
+;
+Selected Answer - ;
+
+
+No. 25;
+Question - Find square of 177 without using calculator;
+Correct Answer - 31329
+;
+Selected Answer - ;
+
+
+No. 26;
+Question - Find square of 163 without using calculator;
+Correct Answer - 26569
+;
+Selected Answer - ;
+
+
+No. 27;
+Question - Find square of 155 without using calculator;
+Correct Answer - 24025
+;
+Selected Answer - ;
+
+
+No. 28;
+Question - Find square of 147 without using calculator;
+Correct Answer - 21609
+;
+Selected Answer - ;
+
+
+No. 29;
+Question - Find square of 131 without using calculator;
+Correct Answer - 17161
+;
+Selected Answer - ;
+
+
+No. 30;
+Question - Find square of 126 without using calculator;
+Correct Answer - 15876
+;
+Selected Answer - ;
+
+
+No. 31;
+Question - Find square of 112 without using calculator;
+Correct Answer - 12544
+;
+Selected Answer - ;
+
+
+No. 32;
+Question - Find square of 109 without using calculator;
+Correct Answer - 11881
+;
+Selected Answer - ;
+
+
+No. 33;
+Question - Find square of 104 without using calculator;
+Correct Answer - 10816
+;
+Selected Answer - ;
+
+
+No. 34;
+Question - Add the following without using calculator : 931+796;
+Correct Answer - 1727
+;
+Selected Answer - ;
+
+
+No. 35;
+Question - Add the following without using calculator : 845+697;
+Correct Answer - 1542
+;
+Selected Answer - ;
+
+
+No. 36;
+Question - Add the following without using calculator : 764+583;
+Correct Answer - 1347
+;
+Selected Answer - ;
+
+
+No. 37;
+Question - Add the following without using calculator : 659+231;
+Correct Answer - 890;
+Selected Answer - ;
+
+
+No. 38;
+Question - Add the following without using calculator : 543+988;
+Correct Answer - 1522
+;
+Selected Answer - ;
+
+
+No. 39;
+Question - Add the following without using calculator : 429+897;
+Correct Answer - 1326
+;
+Selected Answer - ;
+
+
+No. 40;
+Question - Add the following without using calculator : 358+156;
+Correct Answer - 514
+;
+Selected Answer - ;
+
+
+No. 41;
+Question - Add the following without using calculator : 269+473;
+Correct Answer - 742
+;
+Selected Answer - ;
+
+
+No. 42;
+Question - Add the following without using calculator : 147+359;
+Correct Answer - 506
+;
+Selected Answer - ;
+
+
+No. 43;
+Question - Add the following without using calculator : 108+458;
+Correct Answer - 566
+;
+Selected Answer - ;
+
+
+No. 44;
+Question -  Which of the following is the smallest fraction?;
+Correct Answer - 11/26;
+Selected Answer - ;
+
+
+No. 45;
+Question -  Which of the following is the smallest  fraction?;
+Correct Answer - 5 / 50;
+Selected Answer - ;
+
+
+No. 46;
+Question -  Which of the following is the largerest fraction?;
+Correct Answer - 4/11;
+Selected Answer - ;
+
+
+No. 47;
+Question -  Which of the following is the highest fraction?;
+Correct Answer - 4/13;
+Selected Answer - ;
+
+
+No. 48;
+Question -  Which of the following is the highest fraction?;
+Correct Answer - 9/11;
+Selected Answer - ;
+
+
+No. 49;
+Question -  Which of the following is the highest fraction?;
+Correct Answer - 3/5;
+Selected Answer - ;
+
+
+No. 50;
+Question -   Which of the following is the highest fraction?;
+Correct Answer - 4/9;
+Selected Answer - 3/8;
+

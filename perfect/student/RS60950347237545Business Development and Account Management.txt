@@ -1,0 +1,32 @@
+Test Report of Lang   - Business Development and Account Management
+No. 1;
+Question - Research & Strategy;
+Correct Answer - Business level;
+Selected Answer - Corporate level;
+
+
+No. 2;
+Question - Negotiation & Persuasion skills;
+Correct Answer - All of the given options.;
+Selected Answer - Inappropriate information collection;
+
+
+No. 3;
+Question - Cold Calling;
+Correct Answer - "How are you today?";
+Selected Answer - ;
+
+
+No. 4;
+Question - Business Intelligence;
+Correct Answer - Mission
+;
+Selected Answer - Goal;
+
+
+No. 5;
+Question - Account Setup and Management;
+Correct Answer - Don’t force your views on the client when they are not in the right state of mind. Listen to the client peacefully and come back.;
+Selected Answer - Explain your suggestion in a polite and calm manner.
+;
+

@@ -1,0 +1,300 @@
+Test Report of Snehal Mahesh Suryawanshi NA - Aptitude Concepts
+No. 1;
+Question - Which of the given option has the correct angle between the minute and the hour hand when the time on the clock in 4:20?;
+Correct Answer - 10°;
+Selected Answer - 10°;
+
+
+No. 2;
+Question - When rolling two dice at the same time, what is the probability of getting 3 as the sum of the numbers on the two dice?;
+Correct Answer - 2/36;
+Selected Answer - 1/36;
+
+
+No. 3;
+Question - What would be the angle of elevation of the sun, if the length of the shadow of a tree is 3 times the height of the tree ?;
+Correct Answer - 30°;
+Selected Answer - 30°;
+
+
+No. 4;
+Question - What is the least number that must be added to 452 in order to make a perfect cube?	;
+Correct Answer - 60;
+Selected Answer - 60;
+
+
+No. 5;
+Question - What do you mean by To catch a tartar ?;
+Correct Answer - To catch a dangerous person;
+Selected Answer - To deal with a person who is more than one's match;
+
+
+No. 6;
+Question - Two trains are travelling in the same direction. The first train overtakes the second train completely in 45 seconds. The lengths of the first train and the second train are 200 meters and 250 meters respectively. Find the speed of the first train if the speed of the second train is 20 meters per second.;
+Correct Answer - 30 m/s;
+Selected Answer - 30 m/s;
+
+
+No. 7;
+Question - Tim's commute never bothered him because there were always seats available on the train and he was able to spend his 40 minutes comfortably reading the newspaper or catching up on paperwork. Ever since the train schedule changed, the train was extremely crowded, and by the time the doors open at his station, there isn't a seat to be found.Select the appropriate option which is closest to the paragraph.;
+Correct Answer - Tim's commute is less comfortable since the train schedule changed.;
+Selected Answer - Tim's commute is less comfortable since the train schedule changed.;
+
+
+No. 8;
+Question - The product of two numbers is 4107. If the H.C.F. of these numbers is 37, then the greater number is:;
+Correct Answer - 111;
+Selected Answer - 111;
+
+
+No. 9;
+Question - The least perfect square, which is divisible by each of 21, 36 and 66 is:;
+Correct Answer - 213444;
+Selected Answer - 213444;
+
+
+No. 10;
+Question - The average age of the family of three is 24. Then they adopted a kid, of 12 year old. What will be the new average age of the family?;
+Correct Answer - 21;
+Selected Answer - 21;
+
+
+No. 11;
+Question - The average age of 4 family members is 50. But the average age of 5 family members is 42. How old is the fifth member of the family?;
+Correct Answer - 10;
+Selected Answer - 10;
+
+
+No. 12;
+Question - The angle between the minute hand and the hour hand of a clock when the time is 8.30, is:;
+Correct Answer - 75°;
+Selected Answer - ;
+
+
+No. 13;
+Question - Select the correct option which improves the sentence.  His powerful desire brought about his downfall.;
+Correct Answer - His desire for power;
+Selected Answer - No improvement;
+
+
+No. 14;
+Question - Rearrange the following five sentences in proper sequence so as to for a meaningful paragraph, then answer the questions given below them.   1.After Examining him, the doctor smiled at him mischievously and took out a syringe.  2.Thinking that he was really sick, his father summoned the family doctor.  3.That day, Mintu wanted to take a day off from school.  4.Immediately, Mintu jumped up from his bed and swore that he was fine.  5.Therefore; he pretended to be sick and remained in bed.  Which sentence should come fourth in the paragraph?;
+Correct Answer - 1 ;
+Selected Answer - 1 ;
+
+
+No. 15;
+Question - Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence.If there is no error,select the option as ;
+Correct Answer - We discussed about the problem so thoroughly;
+Selected Answer - We discussed about the problem so thoroughly;
+
+
+No. 16;
+Question - Ravi and Kumar are working on an assignment. Ravi takes 6 hours to type 32 pages on a computer, while Kumar takes 5 hours to type 40 pages. How much time will they take, working together on two different computers to type an assignment of 110 pages?;
+Correct Answer - 8 hours 15 minutes;
+Selected Answer - 8 hours 25 minutes;
+
+
+No. 17;
+Question - Put the adequate sign between the given numbers.5/6 + 4/3 _____ 3/7 + 8/9;
+Correct Answer - greater than (>);
+Selected Answer - less than (<);
+
+
+No. 18;
+Question - Put the adequate sign between the given numbers.482/553 _____582/653;
+Correct Answer - less than (<);
+Selected Answer - greater than (>);
+
+
+No. 19;
+Question - Put the adequate sign between the given numbers.17/19 _____ 0.91;
+Correct Answer - less than (<);
+Selected Answer - less than (<);
+
+
+No. 20;
+Question - Pick the odd man out from the given series : 2, 5, 10, 17, 26, 37, 50, 64;
+Correct Answer - 64;
+Selected Answer - 64;
+
+
+No. 21;
+Question - Optimist is to cheerful as pessimist is to;
+Correct Answer - gloomy;
+Selected Answer - gloomy;
+
+
+No. 22;
+Question - In what ratio should milk and water(freely available) be mixed so that a profit of 50% is made after selling the mixture at the cost price?;
+Correct Answer - 2:1;
+Selected Answer - 5:1;
+
+
+No. 23;
+Question - In order to obtain an income of Rs. 650 from 10% stock at Rs. 96, one must make an investment of:;
+Correct Answer - Rs. 3100;
+Selected Answer - Rs. 6240;
+
+
+No. 24;
+Question - In 30 liters of a mixture, alcohol and water are present in the ratio 2 : 3. How many liters of alcohol should be added to the mixture in order to make the ratio of alcohol and water 1 : 1?;
+Correct Answer - 6 liters;
+Selected Answer - 6 liters;
+
+
+No. 25;
+Question - If we divide 2197 into three parts such that the second part is three times the first part and the third part is three times the second part, what will be the third part?;
+Correct Answer - 1521;
+Selected Answer - 1521;
+
+
+No. 26;
+Question - If Q sells his car worth $400000 for $100000 . What is the loss he has to suffer? ;
+Correct Answer - 75%;
+Selected Answer - 75%;
+
+
+No. 27;
+Question - If log 5 + log (5x + 1) = log (x + 5) + 1, then x is equal to: Hint : Assume all logs with base 10.;
+Correct Answer - 3;
+Selected Answer - 1;
+
+
+No. 28;
+Question - If 40% of a number is equal to two-third of another number, what is the ratio of first number to the second number?;
+Correct Answer - 5 : 3;
+Selected Answer - 5 : 3;
+
+
+No. 29;
+Question - How much sugar should be added to 10 kgs of 4% sugar syrup to make it 5% sugar syrup?;
+Correct Answer - 0.1 kgs;
+Selected Answer - 10/19 kgs;
+
+
+No. 30;
+Question - How much is 90% of 80 greater than 4/5 of 70?;
+Correct Answer - 16;
+Selected Answer - 16;
+
+
+No. 31;
+Question - Given below is a sentence which might consist of error in a specific part of it. Find out which part has a grammatical error. Select appropriate choice. (Ignore the errors of punctuation, if any).???????Sentence: If you lend him a book he will lend it to someone else and never you will get it back.;
+Correct Answer - and never you will get it back.;
+Selected Answer - If you lend him a book;
+
+
+No. 32;
+Question - First, you will be given a list of three ;
+Correct Answer - lelipleka;
+Selected Answer - plekabroon;
+
+
+No. 33;
+Question - Direction: In this series, you will be looking at both the letter pattern and the number pattern. Fill the blank in the middle of the series or end of the series. P5QR, P4QS, P3QT, _____, P1QV;
+Correct Answer - P2QU;
+Selected Answer - P2QU;
+
+
+No. 34;
+Question - Direction: In each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer accordingly. Statements: I. The literacy rate in the district has been increasing for the last four years. II. The district administration has conducted extensive training program for the workers involved in the literacy drive.;
+Correct Answer -  Statement II is the cause and statement I is its effect;
+Selected Answer - Both the statements I and II are effects of independent causes;
+
+
+No. 35;
+Question - Direction: Each problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain. I. The temperature on Monday was lower than on Tuesday. II. The temperature on Wednesday was lower than on Tuesday. III. The temperature on Monday was higher than on Wednesday. If the first two statements are true, the third statement is;
+Correct Answer - uncertain;
+Selected Answer - true;
+
+
+No. 36;
+Question - Detective glories tend to glorify crime. Murderers, gangsters and crooks all kinds are described as tough, cunning and courageous individuals who know how to take care of themselves and how to get what they want. In James McCain's The Postman Always Rings twice, for instance the villain is much more impressive character than his victim. He is casual brave smart and successful with women. It is true that he finally gets caught. But he is punished for a crime that he did not commit, so that his conviction is hardly a triumph of justice. Besides, looking back over the exciting life of the criminal, the reader might conclude that it was worth the risk. According to this passage, a criminal in a detective story generally gets caught;
+Correct Answer - for the crimes he has not committed;
+Selected Answer - because of his careless mistakes;
+
+
+No. 37;
+Question - Correct the given statement :You need not come unless you want to.;
+Correct Answer - You don't need to come unless you want to;
+Selected Answer - You don't need to come unless you want to;
+
+
+No. 38;
+Question - Choose the word which best expresses the opposite meaning of the given word.   MEND;
+Correct Answer - Destroy;
+Selected Answer - Destroy;
+
+
+No. 39;
+Question - Choose the word which best expresses the opposite meaning of the given word.  INTENSIVE;
+Correct Answer - Superficial;
+Selected Answer - Superficial;
+
+
+No. 40;
+Question - Choose the word which best expresses the meaning of the given word. STRINGENT;
+Correct Answer - Rigorous;
+Selected Answer - ;
+
+
+No. 41;
+Question - Choose the proper word to complete the sentence.She usually has to give _________ to her big brother.;
+Correct Answer - in;
+Selected Answer - ;
+
+
+No. 42;
+Question - Choose the proper word to complete the sentence.He walked _________ to the sculpture and read the inscription.;
+Correct Answer - up;
+Selected Answer - ;
+
+
+No. 43;
+Question - Choose the proper order of phrases to make a complete and correct sentence.She wasa.    the couch, the cat b.    her backc.    curled ond.    asleep on;
+Correct Answer - d, a, c, b;
+Selected Answer - ;
+
+
+No. 44;
+Question - Choose the proper order of phrases to make a complete and correct sentence.Everyonea.    we began earlyb.    the next day c.    was ond.    edge as;
+Correct Answer - c, d, a, b;
+Selected Answer - ;
+
+
+No. 45;
+Question - Choose one of the given alternatives to replace the text in quotes to form a correct sentence.They were racing ;
+Correct Answer - against the clock to finish the project;
+Selected Answer - ;
+
+
+No. 46;
+Question - Choose one of the given alternatives to replace the quoted text in order to form a correct sentence.;
+Correct Answer - By the time she left Paris;
+Selected Answer - ;
+
+
+No. 47;
+Question - Below sentence is a combination of multiple sentences. Find out which part has a grammatical error. Select appropriate choice. (Ignore the errors of punctuation, if any).Sentence:I could not put up in a hotel because the boarding and lodging charges were exorbitant.;
+Correct Answer - I could not put up in a hotel;
+Selected Answer - ;
+
+
+No. 48;
+Question - Associate the word with most appropriate option : language;
+Correct Answer - words;
+Selected Answer - ;
+
+
+No. 49;
+Question - A train crosses a 90 m long platform in 10 sec. Same train crosses a 120 m long platform in 12 sec. Can you find out what is the length of the train?;
+Correct Answer - 60 m;
+Selected Answer - ;
+
+
+No. 50;
+Question - A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:;
+Correct Answer - 5%;
+Selected Answer - ;
+

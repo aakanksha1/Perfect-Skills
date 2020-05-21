@@ -1,0 +1,120 @@
+Test Report of Ishwar NA - Java Assessment
+No. 1;
+Question - ________ is a way of converting real world objects in terms of class in Java.;
+Correct Answer - Abstraction;
+Selected Answer - Inheritance;
+
+
+No. 2;
+Question - Which part of code gets executed whether an exception is caught or not?;
+Correct Answer - finally;
+Selected Answer - finally;
+
+
+No. 3;
+Question - Which of these is the correct way of calling a constructor having no parameters, of superclass A by subclass B?;
+Correct Answer - super();;
+Selected Answer - super.A();;
+
+
+No. 4;
+Question - Which of these is correct way of inheriting class A by class B?;
+Correct Answer - class B extends A {};
+Selected Answer - class B extends class A {};
+
+
+No. 5;
+Question - Which of the given below is a valid way to instantiate an array in java?;
+Correct Answer - int myArray [] = {1, 3, 5};;
+Selected Answer - int [] myArray = {;
+
+
+No. 6;
+Question - When a thread terminates its processing, into what state that thread enters?;
+Correct Answer - Dead state;
+Selected Answer - Waiting state;
+
+
+No. 7;
+Question - What will be displayed on the screen when the following program is compiled and run?public class Test{    public static void main(String args[])    {        boolean x = true;        int a;        if(x) a = x ? 1: 2;        else a = x ? 3: 4;        System.out.println(a);    }};
+Correct Answer - 1;
+Selected Answer - ;
+
+
+No. 8;
+Question - What is the result of compiling and running the following program?public class Test{   public static void main(String args[])   {       String str1=;
+Correct Answer - abc;
+Selected Answer - abcdef;
+
+
+No. 9;
+Question - What is the result of compiling and running the following program?public class Test{   public static void main(String args[])   {       char ch;        String test2 = ;
+Correct Answer - 'b';
+Selected Answer - ;
+
+
+No. 10;
+Question - What is the name of the Collection interface used to represent elements in a sequence (in a particular order)?;
+Correct Answer - List;
+Selected Answer - List;
+
+
+No. 11;
+Question - What gets printed when the following code is compiled and run?public class Test{    public static void main(String args[])       {         int i = 1;        do         {            i--;        } while (i > 2);        System.out.println(i);    }};
+Correct Answer - 0;
+Selected Answer - 0;
+
+
+No. 12;
+Question - The tasks – authentication-blocking of requests, data compression, logging and auditing – are performed by ____________.;
+Correct Answer - servlet filter;
+Selected Answer - ;
+
+
+No. 13;
+Question - The life cycle of a servlet is managed by ___________.;
+Correct Answer - servlet container;
+Selected Answer - ;
+
+
+No. 14;
+Question - Select the most appropriate option: When Overloading does not occur?;
+Correct Answer - More than one method with the same name, same number of parameters and type but different signature;
+Selected Answer - More than one method with the same name, same number of parameters and type but different signature;
+
+
+No. 15;
+Question - RequestDispatcher object is used to _________;
+Correct Answer - include other resources;
+Selected Answer - ;
+
+
+No. 16;
+Question - If result = 2 + 3 * 5, what is the value and type of 'result' variable?;
+Correct Answer - 17, int;
+Selected Answer - 17, int;
+
+
+No. 17;
+Question - Consider the following code snippet. What will be assigned to the variable fourthChar, if the code is executed?String str = new String(“Java”);char fourthChar = str.charAt(4);;
+Correct Answer - throws StringIndexOutofBoundsException;
+Selected Answer - throws StringIndexOutofBoundsException;
+
+
+No. 18;
+Question - Combining methods and attribute into a class in Java is known as ________.;
+Correct Answer - Encapsulation;
+Selected Answer - Polymorphism;
+
+
+No. 19;
+Question -  What would happen when the following is compiled and executed?public class Compare{     public static void main(String args[])     {        int x = 10, y;         if(x < 10)             y = 1;         if(x>= 10)             y = 2;         System.out.println(;
+Correct Answer - The program does not compile complaining about y not being initialized.;
+Selected Answer - ;
+
+
+No. 20;
+Question -  In which file do we define a servlet mapping?;
+Correct Answer - web.xml;
+Selected Answer - servlet.xml;
+

@@ -1,0 +1,25 @@
+Test Report of Ab   - MS Office And CRM Tools ( SalesForce,Office 365 And Sage 300)
+No. 1;
+Question - Which one among the following can only be done successfully if Outlook has online status:;
+Correct Answer - Scheduling a meeting;
+Selected Answer - Creating an event;
+
+
+No. 2;
+Question - Which of these apps is not included in the Office 365?;
+Correct Answer - MS publisher;
+Selected Answer - MS Word;
+
+
+No. 3;
+Question - What is the name of the feature that will allow you to take a step backward if you've made a mistake?;
+Correct Answer - Undo;
+Selected Answer - We can do it by using Ctrl + x;
+
+
+No. 4;
+Question - On an Excel sheet, the active cell is indicated by ____.;
+Correct Answer -  A dark wide border
+;
+Selected Answer - None of the given options.;
+

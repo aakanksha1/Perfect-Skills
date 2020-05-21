@@ -1,0 +1,96 @@
+Test Report of Lang   - Introduction to Operating System
+No. 1;
+Question - You want to monitor the CPU, memory, and disk usage on your computer to ensure that there are no bottlenecks. Which MMC snap ? in would you load to access System Monitor?;
+Correct Answer - System Monitor;
+Selected Answer - Reliability Monitor;
+
+
+No. 2;
+Question - which of the following containers contains all Registry-based Group Policy settings, including settings for Windows Components, System, and Network? ;
+Correct Answer - Administrative Templates;
+Selected Answer - Administrative Templates;
+
+
+No. 3;
+Question - Which is the windows tool used for patching (Install windows updates) on 1000 of machines?;
+Correct Answer - WSUS;
+Selected Answer - DHCP;
+
+
+No. 4;
+Question - Which IIS version is available on Windows 2016 server?;
+Correct Answer - . IIS 10.0;
+Selected Answer - IIS 7.0;
+
+
+No. 5;
+Question - Which FSMO role used for Domain time management?;
+Correct Answer - PDC Emulator;
+Selected Answer - Domain Naming master;
+
+
+No. 6;
+Question - What option can you use to prevent deleting a group in Windows Server 2008?;
+Correct Answer - Protect object from accidental deletion.;
+Selected Answer - Protect object from accidental deletion.;
+
+
+No. 7;
+Question - What is a forest?;
+Correct Answer - The collection of every object, its attributes and attribute syntax in the Active Directory.;
+Selected Answer - Containers in Find which domains can be grouped. They create a hierarchy for the domain and create the structure of the Active Directory?s company in geographical or organizational terms.;
+
+
+No. 8;
+Question - To Find which of the following Active Directory containers can Group Policies be applied?;
+Correct Answer - all of the given options;
+Selected Answer - domains;
+
+
+No. 9;
+Question - To create a GPO for a domain or an organizational unit, you use either the Active Directory Users and Computers console or the __________.;
+Correct Answer - Group Policy Management Console;
+Selected Answer - Domain Policy Management console;
+
+
+No. 10;
+Question - The GPT contains all of the Registry entries, as well as associated files and folders required to implement the various GPO functions.;
+Correct Answer - TRUE;
+Selected Answer - FALSE;
+
+
+No. 11;
+Question - In order to delegate permissions for a GPO, you must have the ___________ permission for the GPO.;
+Correct Answer - Edit settings, delete and modify the security;
+Selected Answer - none of the mentioned;
+
+
+No. 12;
+Question - Group Policy settings are divided into two categories: Computer Configuration settings and __________. ;
+Correct Answer - User Configuration settings;
+Selected Answer - Group Configuration settings;
+
+
+No. 13;
+Question - Find what are Group Policy Objects?;
+Correct Answer - A collection of settings that define Find what a system will look like and how it will behave for a defined group of users.;
+Selected Answer - A collection of settings that define Find what a system will look like and how it will behave for a defined group of users.;
+
+
+No. 14;
+Question - Do we need to shutdown hyper-v guest server to extend RAM size?;
+Correct Answer - YES;
+Selected Answer - YES;
+
+
+No. 15;
+Question - Do we need to shutdown hyper-v guest server to extend disk space?;
+Correct Answer - YES;
+Selected Answer - NO;
+
+
+No. 16;
+Question - Do we need to shutdown hyper-v guest server to extend CPUs count?;
+Correct Answer - YES;
+Selected Answer - YES;
+
